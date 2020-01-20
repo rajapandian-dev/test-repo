@@ -1,6 +1,6 @@
 # Tennis Kata
 
-This Kata is about implementing a simple tennis game where they have simplified tennis, so each set is one game.
+This Kata is about implementing a simple tennis game. each set is one game.
 
 The scoring system is simple:
 
